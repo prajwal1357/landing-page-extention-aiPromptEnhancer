@@ -98,7 +98,7 @@ const App = () => {
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <a 
-              href="/prompt-enhancer.zip" 
+              href="../public/prompt-enhancer.zip" 
               download
               className="flex items-center gap-3 px-8 py-4 bg-indigo-600 hover:bg-indigo-500 text-white font-bold rounded-xl transition-all shadow-lg shadow-indigo-500/20 active:scale-95"
             >
